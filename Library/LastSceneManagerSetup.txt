@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Wrld.unity
+- path: Assets/ScienceLab/ScienceLab.unity
   isLoaded: 1
   isActive: 1
